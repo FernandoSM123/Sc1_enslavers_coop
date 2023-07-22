@@ -98,6 +98,26 @@ HP: 800
 SHIELD: 600
 ARMOR:4
 
+2-10)Elite Hero
+HP: 600
+SHIELD: 800
+ARMOR:3
+DAMAGE:30
+UPG.DAMAGE:3
+
+2-11)Dark Templar Master
+HP: 4000
+SHIELD: 400
+ARMOR:4
+DAMAGE:100
+UPG.DAMAGE:10
+
+2-12)High Templar Master
+HP: 6000
+SHIELD: 600
+ARMOR:6
+DAMAGE:60
+UPG.DAMAGE:5
 
 ***********************
 *** 3-Terran Heroes ***
