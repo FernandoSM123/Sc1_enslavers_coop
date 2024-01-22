@@ -33,6 +33,13 @@ ARMOR:8
 DAMAGE:100
 UPG.DAMAGE:10
 
+1-6)Eredas
+HP: 600
+SHIELD: 800
+ARMOR:5
+DAMAGE:70
+UPG.DAMAGE:7
+
 
 ************************
 *** 2-Protoss Heroes ***
